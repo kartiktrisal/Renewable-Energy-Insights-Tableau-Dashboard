@@ -22,7 +22,7 @@ It draws on international data from IRENA to offer compelling, interactive visua
 
 ### 📌 Dashboard 1: Energy Generation & Investments
 
-![Energy Generation and Investment Dashboard](images/energy-dashboard.png)
+![Energy Generation and Investment Dashboard](/energy-dashboard.png)
 
 - **Energy Generation by Country** (2000–2023):  
   Shows total electricity production by major countries. China and the USA lead in both renewable and non-renewable sectors.
@@ -34,7 +34,7 @@ It draws on international data from IRENA to offer compelling, interactive visua
 
 ### 📌 Dashboard 2: Jobs in Renewable Energy
 
-![Jobs Created in Renewable Energy Dashboard](images/jobs-dashboard.png)
+![Jobs Created in Renewable Energy Dashboard](/jobs-dashboard.png)
 
 - **Jobs Created by Country**:  
   Interactive map showing number of jobs in RE sector by country. China and the USA show the highest employment numbers.
